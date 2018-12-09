@@ -1,0 +1,28 @@
+---
+title: blogtutorial
+author: osog
+date: '2018-12-10'
+slug: blogtutorial
+categories:
+  - R
+tags:
+  - R Markdown
+  - tutorial
+---
+
+head(iris)
+plot(head(iris))
+
+
+1. 이미지파일 올리기
+
+![rplot](/post/2018-12-10-blogtutorial_files/Rplot.png)
+
+
+2. 결과 올리기
+
+```{r}
+head(iris)
+```
+
+
