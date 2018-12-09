@@ -10,7 +10,7 @@ tags:
 ---
 
 1. 이미지올리기
-![](/post/2018-12-10-iris_files/Rplot.png)
+![alt](/post/2018-12-10-iris_files/Rplot.png)
 
 2. 결과 출력
 
